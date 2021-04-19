@@ -1,0 +1,122 @@
+@media (min-width: 480px) and (max-width: 767px){
+    body{
+        width: 480px;
+    }
+
+#A {
+    width: 480px;
+    height: 75px;
+    line-height: 75px;
+}
+
+#B {
+    width: 480px;
+    height: 150px;
+    line-height: 125px;
+}
+#C {
+    width: 480px;
+    height:125px ;
+    line-height: 125px;
+}
+#D  {
+    width: 480px;
+    height:125px ;
+    line-height: 125px;
+}
+#E  {
+    width: 240px;
+    height:250px ;
+    float: left;
+        line-height: 250px
+}
+#F  {
+    width: 240px;
+    height:250px ;
+    float: right;
+    line-height: 250px;
+}
+#G  {
+    width: 240px;
+    height:250px ;
+    float: left;
+    line-height: 250px
+}
+#H  {
+    width: 240px;
+    height:250px ;
+    float: right;
+    line-height: 250px
+}
+
+#p
+{
+    width: 480px;
+    height:80px ;
+    clear: both;
+    line-height: 70px
+}
+}
+
+@media (min-width: 768px) and (max-width: 960px){
+    body{
+        width: 960px;
+    }
+    #A {
+        width: 960px;
+        height: 100px;
+        line-height: 75px;
+    }
+    
+    #B {
+        float: left;
+        width: 200px;
+        height: 600px;
+        line-height: 75px;
+    }
+    #C {
+        float: left;
+        width: 380px;
+        height:200px ;
+        line-height: 125px;
+    }
+    #D  {
+        float: right;
+        width: 380px;
+        height:200px ;
+        line-height: 125px;
+    }
+
+    #E  {
+        width: 190px;
+        height:250px ;
+        float: left;
+        line-height: 250px
+    }
+    #F  {
+        width: 190px;
+        height:250px ;
+        float: right;
+         line-height: 250px;
+    }
+    #G  {
+        width: 190px;
+        height:250px ;
+        float: left;
+        line-height: 250px
+    }
+    #H  {
+        width: 190px;
+        height:250px ;
+        float: right;
+        line-height: 250px
+    }
+    #p
+{
+    width: 760px;
+    height:150px ;
+    float: right;
+    line-height: 70px
+}
+
+}
